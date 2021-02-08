@@ -5,6 +5,7 @@ class LessonPage extends React.Component {
     render(){
         return(
             <div>
+                LessonPage
             </div>
         )
     }
